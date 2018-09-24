@@ -21,7 +21,7 @@ class App extends Component {
                   type="text"
                   name="body"
                   className="form-control no-border"
-                  placeholder="Body...."
+                  placeholder="Body Text..."
                   required
                 ></textarea>
               </div>
